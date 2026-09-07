@@ -6,11 +6,13 @@ Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -20,5 +22,6 @@ Leetcode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
