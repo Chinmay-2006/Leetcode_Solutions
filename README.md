@@ -32,4 +32,16 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
