@@ -11,6 +11,7 @@ Leetcode Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
