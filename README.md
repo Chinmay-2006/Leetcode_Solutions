@@ -34,10 +34,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -47,4 +49,12 @@ Leetcode Solutions
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
