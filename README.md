@@ -18,6 +18,7 @@ Leetcode Solutions
 | ------- |
 | [0015-3sum](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -43,6 +44,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
