@@ -10,12 +10,9 @@ class Solution {
         }
         product = 1;
         for(int j = nums.length - 1; j >= 0; j--){
-            right[j] = product;
+            left[j] = left[j] * product;
             product = product * nums[j];
         }
-        for(int i = 0; i < nums.length; i++){
-            answer[i] = left[i] * right[i];
-        }
-        return answer;
+        return left;
     }
 }
