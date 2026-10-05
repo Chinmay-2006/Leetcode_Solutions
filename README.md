@@ -43,6 +43,7 @@ Leetcode Solutions
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -66,4 +67,8 @@ Leetcode Solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
