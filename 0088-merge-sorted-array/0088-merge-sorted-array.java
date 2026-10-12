@@ -15,11 +15,13 @@ class Solution {
                 j++;
             }
         }
-        while(i < m){
+        // if size of m is higher then n, at that time remaining numbers are not add
+        while(i < m){ 
             result[k] = nums1[i];
             k++;
             i++;
         }
+        // if size of n is higher then m, at that time remaining numbers are not add
         while(j < n){
             result[k] = nums2[j];
             k++;
