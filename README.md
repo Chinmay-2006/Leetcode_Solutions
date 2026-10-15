@@ -56,6 +56,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -89,6 +90,7 @@ Leetcode Solutions
 | [0001-two-sum](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,8 +99,13 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Chinmay-2006/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
